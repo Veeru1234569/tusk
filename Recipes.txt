@@ -4,3 +4,8 @@ welcome to Ginjupalli Kitchen
 
 Kheer
 pasta
+chicken 
+mutton
+eggs
+
+Thank you.....
